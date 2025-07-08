@@ -50,10 +50,10 @@ DELETE /api/countries/{id} → Delete a country (देश हटाएं)
 
 
 
-{{-- This is complete composer.json file only relace the all code inside  --}}
+{{-- नीचे दिया गया कोड आपको अपने main project के composer.json में जोड़ना है, ताकि आप GitHub से अपना कस्टम Laravel पैकेज (vikas4983/laravel-country-crud-api) इंस्टॉल कर सकें।  --}}
 
 
-{{--Starat--}}
+{{--start--}}
 {
 "name": "laravel/laravel",
 "type": "project",
